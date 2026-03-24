@@ -78,13 +78,7 @@ npm start
 
 ## 🌐 Live Demo
 
-👉 Add your deployed link here (Vercel / Netlify)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here if available)
+👉(https://recipe-finder-six-chi.vercel.app/)
 
 ---
 
